@@ -1,0 +1,78 @@
+a:hover {
+  color: grey;
+}
+
+.wrapper {
+    margin-top: 60px;
+    text-align: center;
+    margin-bottom: 60px;
+
+
+
+}
+
+
+
+
+
+.header {
+font-family: 'Poiret one', cursive;
+font-size: 50px;
+  width: 900px;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+}
+
+.coverpic {
+
+    width: 900px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+.person {
+width: 200px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+.nav a {
+  color: black;
+  text-decoration: none;
+}
+.nav a:hover {
+  color: grey;
+
+}
+.nav-list{
+
+list-style-type: none;
+    width: 800px;
+    display: inline-block;
+    margin-top: -70px;
+    margin-left: auto;
+    margin-right: auto
+    padding: 0px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+}
+
+
+
+.nav-item {
+    display: inline-block;
+    padding: 102px;
+}
+
+
+.strich {
+
+height: 40px;
+margin-top: -30px;
+text-align-last: center;
+}
